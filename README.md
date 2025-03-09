@@ -14,7 +14,7 @@ El objetivo de este proyecto es realizar un análisis de segmentación de client
 ### Cómo usarlo
 
 1. Clona este repositorio en tu máquina local:
-  - git clone https://github.com/Marcelo-Huichulef/unsupervised-customer-segmentation.git
+  - git clone https://github.com/Marcelo-Huichulef/SegmentacionDeClientes_K-MeansClustering.git
 2. Navega al directorio del proyecto:
   - cd unsupervised-customer-segmentation
 3. Asegúrate de tener todas las dependencias necesarias:
